@@ -22,8 +22,9 @@ Please ensure your pull request adheres to the following guidelines:
 
 Please ensure your pull request adheres to the following guidelines:
 
- - Your tool is aimed at project readmes, not profile readmes.
- - Your tool has an established demand (i.e. a significant number of users, stars, etc).
+ - The tool is aimed at project readmes, not profile readmes.
+ - The tool has an established demand (i.e. a significant number of users, stars, etc).
+ - The tool is a fully working solution that isn't new.
  - Alphabetize your entry.
  - Search for previous suggestions before making a new one, as yours may be a duplicate.
  - Make an individual pull request for each suggestion.
